@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:layout_marginTop="24dp">
+
+        <!-- Header -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Previous Year Question Papers"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:textColor="@color/teal_700"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Course Selection -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Course"
+            android:textStyle="bold"
+            android:layout_marginTop="24sp"
+            android:textSize="16sp" />
+
+        <Spinner
+            android:id="@+id/courseSpinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!-- Semester Selection -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Semester"
+            android:layout_marginTop="24sp"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+
+        <Spinner
+            android:id="@+id/semesterSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <!-- Subject Selection -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24sp"
+            android:text="Select Subject"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <Spinner
+            android:id="@+id/subjectSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <!-- Find PDFs Button -->
+        <Button
+            android:id="@+id/fetchPdfBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Find PDFs"
+            android:backgroundTint="@color/teal_700"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="48dp" />
+
+        <!-- Fragment Container - This is where PDFs will be displayed -->
+        <FrameLayout
+            android:id="@+id/fragmentContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:padding="8dp"
+            android:layout_marginTop="16dp" />
+
+    </LinearLayout>
+
+</ScrollView>

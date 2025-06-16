@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437678461361",
+    "firebase_url": "https://kuk-exam-prep-default-rtdb.firebaseio.com",
+    "project_id": "kuk-exam-prep",
+    "storage_bucket": "kuk-exam-prep.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437678461361:android:28dcd7cf635472d81b6d90",
+        "android_client_info": {
+          "package_name": "com.kuk.kukexamprep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437678461361-vpegul3tr6dk453iqhhmvndrejlcprbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuk.kukexamprep",
+            "certificate_hash": "2f64abb15c42b9efcfe9e57628b9109bfa479e52"
+          }
+        },
+        {
+          "client_id": "437678461361-3et86ip6fsik0ql3m4alkrbll2ljsihd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebIQx_HScy7RM-CayIaIfiNilSgaFO04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437678461361-3et86ip6fsik0ql3m4alkrbll2ljsihd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
