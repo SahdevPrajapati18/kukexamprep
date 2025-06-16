@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kuk.kukexamprep.app-mergeDebugResources-41:/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sahde\\.gradle\\caches\\8.11.1\\transforms\\d1b2d582c7dea33ff30f5de55b942da7\\transformed\\appcompat-1.7.0\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,796",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,884"
+                    }
+                }
+            ]
+        }
+    ]
+}

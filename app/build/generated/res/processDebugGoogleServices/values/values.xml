@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">437678461361-3et86ip6fsik0ql3m4alkrbll2ljsihd.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://kuk-exam-prep-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">437678461361</string>
+    <string name="google_api_key" translatable="false">AIzaSyCebIQx_HScy7RM-CayIaIfiNilSgaFO04</string>
+    <string name="google_app_id" translatable="false">1:437678461361:android:28dcd7cf635472d81b6d90</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCebIQx_HScy7RM-CayIaIfiNilSgaFO04</string>
+    <string name="google_storage_bucket" translatable="false">kuk-exam-prep.firebasestorage.app</string>
+    <string name="project_id" translatable="false">kuk-exam-prep</string>
+</resources>

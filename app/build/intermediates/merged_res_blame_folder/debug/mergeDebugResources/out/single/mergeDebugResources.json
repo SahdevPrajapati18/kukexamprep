@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_card_background.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_default_profile_image.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\default_profile_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_syllabus.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_syllabus.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_pyq.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_pyq.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_card_bg.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\card_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.kuk.kukexamprep.app-debug-43:/drawable_notification.png.flat",
+        "source": "com.kuk.kukexamprep.app-main-45:/drawable/notification.png"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_date_sheet.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_date_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_ic_book.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\ic_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_splash_logo.png.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\splash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_ic_notes.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\ic_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_view_pdf.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_view_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_notes.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "com.kuk.kukexamprep.app-debug-43:/layout_activity_dashboard.xml.flat",
+        "source": "com.kuk.kukexamprep.app-main-45:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_pdf_viewer.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_pdf_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_item_pdf.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\item_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_ic_menu_myprofile.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\ic_menu_myprofile.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_fragment_pdf_list.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\fragment_pdf_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\ic_launcher_foreground.xml"
+    }
+]
