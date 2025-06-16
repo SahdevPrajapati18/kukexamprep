@@ -36,8 +36,7 @@ public class PyqActivity extends AppCompatActivity {
 
     private static final String TAG = "PyqActivity";
     private static final String SUPABASE_URL = "https://wrpcjqfnsdcdhztvmlfa.supabase.co";
-    private static final String SUPABASE_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndycGNqcWZuc2RjZGh6dHZtbGZhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY2MTI0NzAsImV4cCI6MjA2MjE4ODQ3MH0.1Fxb-T7yKla7aUkG-_8PDxwD4CaY3e1YihKE21a-X34";
-
+    private static final String SUPABASE_API_KEY = BuildConfig.SUPABASE_API_KEY;
     Spinner courseSpinner, semesterSpinner, subjectSpinner;
     Button fetchNotesBtn;
     FrameLayout fragmentContainer;
