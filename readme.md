@@ -14,7 +14,8 @@ KUK Exam Prep is an Android application designed for Kurukshetra University stud
 - 💡 Lightweight and user-friendly
 
 ## 📷 Screenshots
-_Add app screenshots here (if available)_
+### Dashboard Screen
+![Home Screen](assets/Dashboard.jpeg)
 
 ## 🚀 Getting Started
 
