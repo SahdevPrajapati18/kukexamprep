@@ -52,6 +52,10 @@
         "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_splash.xml"
     },
     {
+        "merged": "com.kuk.kukexamprep.app-debug-43:/layout_activity_splash.xml.flat",
+        "source": "com.kuk.kukexamprep.app-main-45:/layout/activity_splash.xml"
+    },
+    {
         "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
@@ -78,10 +82,6 @@
     {
         "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
         "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
-    },
-    {
-        "merged": "com.kuk.kukexamprep.app-debug-43:/drawable_notification.png.flat",
-        "source": "com.kuk.kukexamprep.app-main-45:/drawable/notification.png"
     },
     {
         "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_date_sheet.xml.flat",
@@ -136,6 +136,10 @@
         "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_notification.png.flat",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\notification.png"
+    },
+    {
         "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
@@ -146,10 +150,6 @@
     {
         "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\drawable_rounded_button.xml.flat",
         "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\drawable\\rounded_button.xml"
-    },
-    {
-        "merged": "com.kuk.kukexamprep.app-debug-43:/layout_activity_dashboard.xml.flat",
-        "source": "com.kuk.kukexamprep.app-main-45:/layout/activity_dashboard.xml"
     },
     {
         "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-debug-43:\\layout_activity_pdf_viewer.xml.flat",

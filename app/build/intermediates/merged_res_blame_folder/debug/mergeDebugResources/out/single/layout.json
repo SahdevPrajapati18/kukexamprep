@@ -8,12 +8,16 @@
         "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\item_pdf.xml"
     },
     {
+        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-mergeDebugResources-42:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_dashboard.xml"
+    },
+    {
         "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-mergeDebugResources-42:\\layout\\activity_view_pdf.xml",
         "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_view_pdf.xml"
     },
     {
-        "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-mergeDebugResources-42:\\layout\\activity_dashboard.xml",
-        "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_dashboard.xml"
+        "merged": "com.kuk.kukexamprep.app-mergeDebugResources-42:/layout/activity_splash.xml",
+        "source": "com.kuk.kukexamprep.app-main-45:/layout/activity_splash.xml"
     },
     {
         "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-mergeDebugResources-42:\\layout\\activity_notification.xml",
@@ -30,10 +34,6 @@
     {
         "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-mergeDebugResources-42:\\layout\\activity_notes.xml",
         "source": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-main-45:\\layout\\activity_notes.xml"
-    },
-    {
-        "merged": "com.kuk.kukexamprep.app-mergeDebugResources-42:/layout/activity_dashboard.xml",
-        "source": "com.kuk.kukexamprep.app-main-45:/layout/activity_dashboard.xml"
     },
     {
         "merged": "C:\\Users\\sahde\\.gradle\\daemon\\8.11.1\\com.kuk.kukexamprep.app-mergeDebugResources-42:\\layout\\activity_login.xml",
