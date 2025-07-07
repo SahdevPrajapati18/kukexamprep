@@ -20,7 +20,7 @@
 ---
 
 ## 📷 Screenshots
-<p align="center">
+
 ### Splash Screen
 <img src="assets/splash.jpeg" width="300" />
 
@@ -42,7 +42,7 @@
 
 ### Datesheets Screen
 <img src="assets/pyqs.jpeg" width="300" />
-</p>
+
 ---
 
 ## 🚀 Getting Started
