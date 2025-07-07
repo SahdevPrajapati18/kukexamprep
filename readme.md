@@ -18,6 +18,9 @@
 - 💡 Lightweight and user-friendly
 
 ---
+## 📦 Download APK
+
+[🔗 Click here to download the app](app/build/outputs/apk/app-debug.apk)
 
 ## 📷 Screenshots
 
