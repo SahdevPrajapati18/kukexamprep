@@ -20,7 +20,8 @@
 ---
 ## 📦 Download APK
 
-[🔗 Click here to download the app](app/build/outputs/apk/debug/app-debug.apk)
+[📥 Download APK from GitHub Releases](https://github.com/SahdevPrajapati18/kukexamprep/releases)
+
 
 ## 📷 Screenshots
 
