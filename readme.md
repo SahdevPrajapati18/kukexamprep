@@ -20,7 +20,7 @@
 ---
 ## 📦 Download APK
 
-[🔗 Click here to download the app](app/build/outputs/apk/app-debug.apk)
+[🔗 Click here to download the app](app/build/outputs/apk/debug/app-debug.apk)
 
 ## 📷 Screenshots
 
