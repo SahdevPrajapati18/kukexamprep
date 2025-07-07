@@ -1,11 +1,15 @@
 # 📚 KUK Exam Prep – Android App
 
-KUK Exam Prep is an Android application designed for Kurukshetra University students. It provides semester-wise study material, previous year papers, and notes to help with academic preparation.
+**KUK Exam Prep** is an Android application designed for Kurukshetra University students. It provides semester-wise study material, previous year papers, and notes to help with academic preparation.
+
+---
 
 ## 🛠️ Built With
 - Java
 - XML (Android UI)
 - Android Studio
+
+---
 
 ## 📲 Features
 - 📘 Semester-wise subject selection
@@ -13,12 +17,34 @@ KUK Exam Prep is an Android application designed for Kurukshetra University stud
 - 🎯 Simple and responsive UI
 - 💡 Lightweight and user-friendly
 
-## 📷 Screenshots
-### Dashboard Screen
-![Home Screen](assets/Dashboard.jpeg)
+---
 
-### Sign-in Screen
-![SignIn Screen](assets/signin.jpeg)
+## 📷 Screenshots
+
+### Splash Screen
+<img src="assets/splash.jpeg" width="300" />
+
+### 🧭 Dashboard Screen
+<img src="assets/Dashboard.jpeg" width="300" />
+
+### 🔐 Sign-in Screen
+<img src="assets/Signin.jpeg" width="300" />
+
+### Sign-Up Screen
+<img src="assets/signup.jpeg" width="300" />
+
+### Notes Screen
+<img src="assets/Notes1.jpeg" width="300" />
+<img src="assets/Notes2.jpeg" width="300" />
+
+### Previous Year Question Papers Screen
+<img src="assets/pyqs.jpeg" width="300" />
+
+### Datesheets Screen
+<img src="assets/pyqs.jpeg" width="300" />
+
+---
+
 ## 🚀 Getting Started
 
 To run the app locally:
