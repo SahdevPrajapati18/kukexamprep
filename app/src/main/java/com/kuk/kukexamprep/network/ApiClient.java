@@ -24,7 +24,7 @@ public class ApiClient {
     private static final String TAG = "ApiClient";
 
     // Supabase configuration
-    private static final String SUPABASE_URL = "https://wrpcjqfnsdcdhztvmlfa.supabase.co";
+    private static final String SUPABASE_URL = "https://xvbdftahurzbyahvxrdh.supabase.co";
     private static final String STORAGE_URL = SUPABASE_URL + "/storage/v1/object/public";
     private static final String API_URL = SUPABASE_URL + "/rest/v1";
 
